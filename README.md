@@ -3,6 +3,8 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+Used in Azure DevOps lab to demonstrate Integrating External Source Control with Azure Pipelines.
+
 [![Build Status](https://dev.azure.com/EngrNonsoDevOps/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/NonsoNnamani.calculator?branchName=master)](https://dev.azure.com/EngrNonsoDevOps/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=10&branchName=master)
 [![Node.js CI](https://github.com/NonsoNnamani/calculator/actions/workflows/github-pipelines.yml/badge.svg)](https://github.com/NonsoNnamani/calculator/actions/workflows/github-pipelines.yml)
 
